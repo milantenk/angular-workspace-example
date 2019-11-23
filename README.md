@@ -27,8 +27,8 @@ ng generate application my-app
 ```
 - Add `MyLibModule` to the `app.module.ts` of the application.
 - Update package.json with `build:lib` and `build:app` commands.
-- Run 
+- To serve your application with the library included run:
 ```bash
 npm run start
 ```
-And you will see the the served application with the library inlcuded.
+
